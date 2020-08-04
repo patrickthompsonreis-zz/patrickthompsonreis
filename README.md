@@ -3,4 +3,4 @@ My name is Patrick Thompson, from Brazil. I'm always learning something new, and
 
 I'm passionate about travels and movies. Call me if want to talk about tech, life and everything else, with a beer or a coffee.
 
-https://img.shields.io/badge/patrickt.reis%40gmail.com-Gmail-red
+![GitHub repo size](https://img.shields.io/github/repo-size/patrickthompsonreis/patrickthompsonreis)
